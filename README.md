@@ -1,0 +1,11 @@
+# STAR LIKE API SRC
+# POWERED BY : @ZAINU_BHAI
+# CHANNEL : @ZAINUBHAIFF
+
+```json
+dont change credit
+if fuck your mother
+POWERED BY : @ZAINU_BHAI
+# CHANNEL : @ZAINUBHAIFF
+
+
