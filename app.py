@@ -380,6 +380,7 @@ if __name__ == '__main__':
     print("🧠 Smart feature: Tracks which accounts already liked")
     print("⚡ Only fresh accounts will send likes")
     app.run(host='0.0.0.0', port=5001, debug=True, use_reloader=False)
-# STAR LIKE API SRC UID PASSWORD 
+# ZAINU LIKE API SRC UID PASSWORD 
 # POWERED BY : @ZAINU_BHAI
 # CHANNEL : @ZAINUBHAIFF
+
